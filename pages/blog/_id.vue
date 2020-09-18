@@ -58,6 +58,11 @@ export default {
        title: this.blog.title,
        meta: [
         { hid: 'og-title', property: 'og:title', content: this.blog.title },        
+        {
+          hid: 'description',
+          name: 'description',
+          content: this.blog.description
+        },
         { hid: 'og:image', name: 'og:image', content: this.blog.image }
        ]
     }
