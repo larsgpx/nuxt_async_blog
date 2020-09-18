@@ -3,10 +3,10 @@
     <div>
       <Logo />
       <h1 class="title">
-        Vochi
+        Nuxt testing social sharing
       </h1>
       <div class="links">
-        <a
+        <!-- <a
           href="https://nuxtjs.org/"
           target="_blank"
           rel="noopener noreferrer"
@@ -21,7 +21,7 @@
           class="button--grey"
         >
           GitHub
-        </a>
+        </a> -->
       </div>
     </div>
   </div>
